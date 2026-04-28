@@ -8,7 +8,7 @@
 **SupertagAI** is a desktop application that automates metadata generation for images and videos using AI technology. Designed for photographers, videographers, and content creators who sell their work on stock media platforms like Adobe Stock, Shutterstock, and iStock.
 
 ## 🌐 Website
- **supertagai.vercel.app**
+ **https://supertagai.vercel.app**
 
 ## 📥 Download
 
