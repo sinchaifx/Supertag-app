@@ -8,7 +8,8 @@
 **SupertagAI** is a desktop application that automates metadata generation for images and videos using AI technology. Designed for photographers, videographers, and content creators who sell their work on stock media platforms like Adobe Stock, Shutterstock, and iStock.
 
 ## 🌐 Website
- **https://supertagai.vercel.app**
+
+🌐 [supertagai.vercel.app](https://supertagai.vercel.app)
 
 ## 📥 Download
 
@@ -32,9 +33,63 @@ Latest release: [v1.2.1](https://github.com/sinchaifx/Supertag-app/releases/tag/
 | Standard | 500 | 200 |
 | Pro | 2,000 | 800 |
 
-## 💳 Credit System
+## 💳 Pricing Models
 
-Pay-per-use credits available for flexible usage. Credits never expire.
+SupertagAI offers two flexible pricing options to suit different needs:
+
+### 📦 Subscription Mode (Monthly Plans)
+
+Best for regular users with consistent processing needs.
+
+| Plan | Images/Month | Videos/Month | Reset |
+|------|-------------|-------------|-------|
+| Free | 20 | 10 | Monthly |
+| Standard | 500 | 200 | Monthly |
+| Pro | 2,000 | 800 | Monthly |
+
+**How to Subscribe:**
+1. Login to SupertagAI
+2. Go to User Profile → Subscription
+3. Select your preferred plan
+4. Complete payment
+5. Quota resets automatically each month
+
+**Benefits:**
+- Fixed monthly cost
+- Predictable budgeting
+- Automatic quota renewal
+- No per-file cost worries
+
+### 💰 Credit Mode (Pay-Per-Use)
+
+Best for occasional users or those with variable workloads.
+
+**How to Add Credits:**
+1. Login to SupertagAI
+2. Go to User Profile → Credits
+3. Select credit package
+4. Complete payment
+5. Credits added instantly
+
+**Benefits:**
+- Pay only for what you use
+- Credits never expire
+- Choose AI model based on budget
+- No monthly commitment
+
+### 🔄 Choosing Between Plans
+
+| Factor | Subscription | Credit |
+|--------|-------------|--------|
+| **Best For** | Regular users | Occasional users |
+| **Cost** | Fixed monthly | Variable per-use |
+| **Quota** | Resets monthly | Never expires |
+| **Commitment** | Monthly | No commitment |
+| **Budget** | Predictable | Flexible |
+
+**Recommendation:**
+- Choose **Subscription** if you process 50+ files per month
+- Choose **Credit** if you process occasionally or have variable workload
 
 ## 🚀 Quick Start
 
@@ -45,12 +100,13 @@ Pay-per-use credits available for flexible usage. Credits never expire.
 
 
 
-Copyright © 2026 Supertag. All rights reserved.
+Copyright © 2025 Supertag. All rights reserved.
 
 ## 📞 Contact
 
-- Website: www.supertagai
+- Website: [supertagai.vercel.app](https://supertagai.vercel.app)
 - GitHub: https://github.com/sinchaifx/Supertag-app
+- Discord: [Join our Discord](https://discord.gg/UYXKY4SA)
 
 ---
 
