@@ -9,7 +9,7 @@
 
 ## 🌐 Website
 
-🌐 **www.supertagai**
+🌐 **www.supertagai.vercel.app**
 
 ## 📥 Download
 
