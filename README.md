@@ -1,6 +1,6 @@
 # SupertagAI - AI-Powered Metadata Generator for Stock Media
 
-[![Version](https://img.shields.io/badge/version-v1.2.3-blue.svg)](https://github.com/supertagai/Supertag/releases/)
+[![Version](https://img.shields.io/badge/version-v1.2.4-blue.svg)](https://github.com/supertagai/Supertag/releases/)
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE.txt)
 [![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
