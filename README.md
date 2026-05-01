@@ -1,6 +1,6 @@
 # SupertagAI - AI-Powered Metadata Generator for Stock Media
 
-[![Version](https://img.shields.io/badge/version-v1.2.1-blue.svg)](https://github.com/sinchaifx/Supertag-app/releases/tag/v1.2.1)
+[![Version](https://img.shields.io/badge/version-v1.2.3-blue.svg)](https://github.com/supertagai/Supertag/releases/)
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE.txt)
 [![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
@@ -25,13 +25,6 @@ Latest release: [v1.2.1](https://github.com/sinchaifx/Supertag-app/releases/tag/
 - **Secure Authentication** - OAuth with Google/Discord
 - **Flexible Pricing** - Subscription plans and credit system
 
-## 📋 Subscription Plans
-
-| Plan | Images/Month | Videos/Month |
-|------|-------------|-------------|
-| Free | 20 | 10 |
-| Standard | 500 | 200 |
-| Pro | 2,000 | 800 |
 
 ## 💳 Pricing Models
 
