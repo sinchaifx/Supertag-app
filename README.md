@@ -11,10 +11,6 @@
 
 🌐 [supertagai.vercel.app](https://supertagai.vercel.app)
 
-## 📥 Download
-
-Latest release: [v1.2.1](https://github.com/sinchaifx/Supertag-app/releases/tag/v1.2.1)
-
 ## ✨ Features
 
 - **AI-Powered Metadata Generation** - Uses OpenAI and Google AI to generate titles, descriptions, and keywords
